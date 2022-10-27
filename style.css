@@ -197,6 +197,7 @@ ul{
 } 
 .bolo6:hover{
     transform:scale(1.07,1.07);
+    opacity: 1;
 
 
 } 
@@ -243,7 +244,7 @@ ul{
 .localizacao{
     background-color: #c0576f;
     width: 100%;
-    height: 300px;
+    height: 800px;
 }
 .img-doceria{
     
@@ -251,8 +252,19 @@ ul{
     height: 400px;
 }
 .imagem-doceria{
-    padding: 40px;
+    padding-left: 65px;
+    padding-top: 100px;
+
 }
 .texto-doceria{
                                                                        
+}
+.h1-localizacao{
+    font-size: 46px;
+    font-family: 'Pacifico', cursive;
+    color: white;
+    text-align: center;
+    
+
+
 }
