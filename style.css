@@ -15,14 +15,14 @@ h1{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: #ad5c70;
+    background-color: #470d3b;
     height: 100px;
 }
 ul{
     display: flex;
     margin-right: 160px;
 }
-li{
+.li-menu{
     padding-left: 10px ;
     margin-top: 10px;
     margin-left: 100px;
@@ -38,11 +38,12 @@ li{
 
 }
 .meio-site{
-    background-color: #edd4be;
+    background-color: #7e2f56;
     width: 100%;
-    height: 900px
+    height: 975px
 }
 .h1-meio{
+    font-size: 46px;
     padding-top: 40px;
     color: white;
     text-align: center;
@@ -214,3 +215,44 @@ li{
 
 
 } 
+.header2{
+    width: 100%;
+    height: 100px;
+    background-color: #c0576f;
+}
+.ul-header2{
+    margin: 10px;
+    font-size: 10px;
+}
+.li-header2{
+    color: white;
+    padding-top: 35px;
+    font-size: 20px;
+    margin: 20px;
+    margin: auto;
+    font-family: 'Poppins', sans-serif;
+    list-style: none;
+}
+.a-header2{
+    text-decoration: none;
+    font-size: 20px;
+    margin: 20px;
+    margin: auto;
+
+}
+.localizacao{
+    background-color: #c0576f;
+    width: 100%;
+    height: 300px;
+}
+.img-doceria{
+    
+    width: 700px;
+    height: 400px;
+}
+.imagem-doceria{
+    padding: 40px;
+}
+.texto-doceria{
+                                                                       
+}
